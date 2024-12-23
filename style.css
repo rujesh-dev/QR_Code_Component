@@ -1,0 +1,42 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.scanner{
+    height: 450px;
+    width: 300px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+    background-color: white;
+    box-sizing: border-box;
+    
+}
+
+img{
+    width: 260px;
+    margin: 20px;
+border-radius: 10px;
+}
+
+h2{
+    margin: 0;
+    padding: 0 32px;
+   
+}
+
+p{
+    margin: 0;
+    padding: 15px 32px;  
+    font-size: 15px;
+    font-weight: ;
+}
+
+span{
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, 0);
+
+}
